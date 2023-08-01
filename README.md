@@ -1,1 +1,1 @@
-# Word-Frequency-Reader
+# Word-Frequency-Counter
